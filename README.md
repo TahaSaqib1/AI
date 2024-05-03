@@ -11,4 +11,7 @@ The dataset used for this project consists of extremely important cars informati
 
 This is pairplot graph of all attributes.
 
+![1](https://github.com/TahaSaqib1/AI/assets/113784961/a3548205-a9e9-40d2-911c-2684f1909081)
+
+
 
