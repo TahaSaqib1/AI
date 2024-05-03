@@ -17,5 +17,9 @@ This is HeatMap corr, which will tell us about the correlation of different attr
 
 ![2](https://github.com/TahaSaqib1/AI/assets/113784961/8ca2fc0b-eedd-421d-9ada-67549f341755)
 
-This graph tells about the companies, with respect to their volumes
+This graph tells about the Brands, their descriptions and occurences
+
+![3](https://github.com/TahaSaqib1/AI/assets/113784961/7dad8272-7739-4446-8b50-70e395049e4d)
+
+This graph tells about the car_names, their descriptions and occurences
 
