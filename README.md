@@ -24,3 +24,30 @@ This graph tells about the Brands, their descriptions and occurences
 This graph tells about the car_names, their descriptions and occurences
 
 ![4](https://github.com/TahaSaqib1/AI/assets/113784961/d8e8c2e6-37f3-46e9-9b8a-3eb0e2de0e08)
+
+# Preprocessing
+
+Before applying algorithms and proceedings, we have done with preprocessings:
+- Data Loading and Inspection:
+  - Loaded the dataset using pandas' read_csv() function.
+  - Inspected the first few rows of the dataset using head() to understand its structure and contents.
+  - Checked the data types and non-null values in each column using info() to assess data quality.
+  - Examined the shape of the dataset using shape to determine the number of rows and columns.
+    
+- Data Cleaning:
+  - Removed unnecessary columns such as 'seller_type' using drop() to streamline the dataset.
+  - Handled missing values by either dropping them using dropna() or filling them with column means to ensure data completeness.
+  - Eliminated duplicate rows with drop_duplicates() to avoid redundancy in the dataset.
+    
+- Data Encoding:
+  - Identified categorical columns using list comprehensions based on data types.
+  - Utilized LabelEncoder from sklearn.preprocessing to transform categorical features into numerical values.
+    
+- Model Training:
+  - Split the dataset into training and testing sets using train_test_split() to evaluate model performance.
+  - Trained regression models such as Linear Regression, Decision Tree, Random Forest, and Gradient Boosting using the training data.
+    
+- Model Evaluation:
+  - Evaluated model performance using metrics such as Explained Variance Score and R-Square Score to gauge accuracy and variance explanation capabilities.
+    
+These preprocessing steps collectively ensure that the dataset is clean, properly formatted, and suitable for training predictive models to predict car_names accurately.
