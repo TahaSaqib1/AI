@@ -23,3 +23,4 @@ This graph tells about the Brands, their descriptions and occurences
 
 This graph tells about the car_names, their descriptions and occurences
 
+![4](https://github.com/TahaSaqib1/AI/assets/113784961/d8e8c2e6-37f3-46e9-9b8a-3eb0e2de0e08)
