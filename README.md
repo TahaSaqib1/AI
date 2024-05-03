@@ -51,3 +51,8 @@ Before applying algorithms and proceedings, we have done with preprocessings:
   - Evaluated model performance using metrics such as Explained Variance Score and R-Square Score to gauge accuracy and variance explanation capabilities.
     
 These preprocessing steps collectively ensure that the dataset is clean, properly formatted, and suitable for training predictive models to predict car_names accurately.
+
+After that, Models are performed, evaluated and then further workings performed.
+
+![5](https://github.com/TahaSaqib1/AI/assets/113784961/4421c3a0-1756-4b65-94ad-8b09c198da16)
+
