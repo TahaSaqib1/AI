@@ -13,5 +13,9 @@ This is pairplot graph of all attributes.
 
 ![1](https://github.com/TahaSaqib1/AI/assets/113784961/a3548205-a9e9-40d2-911c-2684f1909081)
 
+This is HeatMap corr, which will tell us about the correlation of different attributes
 
+![2](https://github.com/TahaSaqib1/AI/assets/113784961/8ca2fc0b-eedd-421d-9ada-67549f341755)
+
+This graph tells about the companies, with respect to their volumes
 
