@@ -72,7 +72,7 @@ The following deep learning models are implemented:
    ![ann train](https://github.com/TahaSaqib1/AI/assets/113784961/32fa1d8e-1df4-44c7-a48d-4adf15d27fea)
    
 
-3) RNN:
+2) RNN:
    
    ![rnn train](https://github.com/TahaSaqib1/AI/assets/113784961/05883c02-e8d7-487d-8866-3f77a8272c8e)
    
@@ -89,8 +89,7 @@ The following deep learning models are implemented:
    ![rnn](https://github.com/TahaSaqib1/AI/assets/113784961/592566b8-5949-4dc7-a81a-4f8a4293aa53)
 
    ![rnn](https://github.com/TahaSaqib1/AI/assets/113784961/928f5420-a699-47cf-99b9-bf2fe71f2424)
-   
 
-   
 
+# User Interface For ANN, RNN, Cosine Similarity
 
