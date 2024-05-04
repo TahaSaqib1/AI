@@ -61,3 +61,5 @@ After that, Models are performed, evaluated and then further workings performed.
 Models evaluation has been done through Accuracy, Variance, Mean Squared Error and Root Mean Square Error. The models included are Linear Regression, Decision Trees, Gradient Boosting and Random Forest etc.
 Results Provided are: 
 
+![ME](https://github.com/TahaSaqib1/AI/assets/113784961/73da7fe9-0e0f-4ab7-b352-f736a3da8c25)
+
