@@ -63,3 +63,6 @@ Results Provided are:
 
 ![ME](https://github.com/TahaSaqib1/AI/assets/113784961/73da7fe9-0e0f-4ab7-b352-f736a3da8c25)
 
+![mse](https://github.com/TahaSaqib1/AI/assets/113784961/c4df2035-199b-4b56-9d1b-a15e872d1d7d)
+
+
