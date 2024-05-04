@@ -56,7 +56,7 @@ After that, Models are performed, evaluated and then further workings performed.
 
 ![5](https://github.com/TahaSaqib1/AI/assets/113784961/4421c3a0-1756-4b65-94ad-8b09c198da16)
 
-# Models Evaluation
+# ML Models Evaluation
 
 Models evaluation has been done through Accuracy, Variance, Mean Squared Error and Root Mean Square Error. The models included are Linear Regression, Decision Trees, Gradient Boosting and Random Forest etc.
 Results Provided are: 
@@ -64,5 +64,9 @@ Results Provided are:
 ![ME](https://github.com/TahaSaqib1/AI/assets/113784961/73da7fe9-0e0f-4ab7-b352-f736a3da8c25)
 
 ![mse](https://github.com/TahaSaqib1/AI/assets/113784961/c4df2035-199b-4b56-9d1b-a15e872d1d7d)
+
+# Deep Learning Models
+The following deep learning models are implemented:
+
 
 
