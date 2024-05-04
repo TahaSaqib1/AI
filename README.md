@@ -93,3 +93,8 @@ The following deep learning models are implemented:
 
 # User Interface For ANN, RNN, Cosine Similarity
 
+As a portal for recommendation and optimization through user interface. Here is the provided one:
+
+The user inputs values to specify car preferences: they select "Ford" as the brand, diesel as fuel type, manual transmission, a vehicle age requirement of 7 years, and a maximum price range of 100,000. The program then predicts three cars using different algorithms: ANN suggests "Mahindra Marazzo," RNN suggests "Mahindra XUV300," and Cosine Similarity suggests "Hyundai Venue" as suitable options.
+
+![final](https://github.com/TahaSaqib1/AI/assets/113784961/4c0fed16-866e-46d5-9dcd-839575a9a3e9)
