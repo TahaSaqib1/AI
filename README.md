@@ -69,12 +69,18 @@ Results Provided are:
 The following deep learning models are implemented:
 1) ANN:
    ![ann train](https://github.com/TahaSaqib1/AI/assets/113784961/32fa1d8e-1df4-44c7-a48d-4adf15d27fea)
+   
 
-2) RNN:
+3) RNN:
    ![rnn train](https://github.com/TahaSaqib1/AI/assets/113784961/05883c02-e8d7-487d-8866-3f77a8272c8e)
+   
 
 # DL Models Evaluation
 1) ANN:
+   ![ann](https://github.com/TahaSaqib1/AI/assets/113784961/1987d2d9-9a8f-4553-a140-93571bce21f8)
+   
+2) RNN:
+   
 
    
 
