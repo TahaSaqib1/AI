@@ -97,4 +97,20 @@ As a portal for recommendation and optimization through user interface. Here is 
 
 The user inputs values to specify car preferences: they select "Ford" as the brand, diesel as fuel type, manual transmission, a vehicle age requirement of 7 years, and a maximum price range of 100,000. The program then predicts three cars using different algorithms: ANN suggests "Mahindra Marazzo," RNN suggests "Mahindra XUV300," and Cosine Similarity suggests "Hyundai Venue" as suitable options.
 
+
 ![final](https://github.com/TahaSaqib1/AI/assets/113784961/4c0fed16-866e-46d5-9dcd-839575a9a3e9)
+
+
+# Conclusion
+
+The project employed ANN, RNN, and cosine similarity models to predict car names based on user preferences like brand, fuel type, and transmission. ANN predicted 'Mahindra Marazzo', while RNN suggested 'Mahindra XUV300'. Cosine similarity recommended 'Hyundai Venue', showcasing diverse approaches to car prediction. These models offer valuable insights for efficient car selection.
+The project aimed to predict car names using ANN, RNN, and cosine similarity models. ANN achieved the highest accuracy, followed by RNN and cosine similarity (Early-Stopping applied).
+
+# More Info
+
+For further details and implementation, please refer to the code repository on GitHub.
+
+Github Repository Link: https://github.com/TahaSaqib1/AI
+
+Author: Taha and Tayyab
+Date: 4th May, 2024
