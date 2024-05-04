@@ -80,9 +80,9 @@ The following deep learning models are implemented:
 # DL Models Evaluation
 1) ANN:
    
-   ![ann](https://github.com/TahaSaqib1/AI/assets/113784961/1987d2d9-9a8f-4553-a140-93571bce21f8)
+   ![1111](https://github.com/TahaSaqib1/AI/assets/113784961/54f53af5-729f-48e7-8e61-a9b53f50f0ad)
    
-3) RNN:
+2) RNN:
    
    ![rnn](https://github.com/TahaSaqib1/AI/assets/113784961/592566b8-5949-4dc7-a81a-4f8a4293aa53)
    
