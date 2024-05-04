@@ -81,8 +81,10 @@ The following deep learning models are implemented:
 1) ANN:
    
    ![1111](https://github.com/TahaSaqib1/AI/assets/113784961/54f53af5-729f-48e7-8e61-a9b53f50f0ad)
+
+   ![ann](https://github.com/TahaSaqib1/AI/assets/113784961/d78f513d-3c8e-445b-b6e7-ff1832c7a1aa)
    
-2) RNN:
+3) RNN:
    
    ![rnn](https://github.com/TahaSaqib1/AI/assets/113784961/592566b8-5949-4dc7-a81a-4f8a4293aa53)
    
